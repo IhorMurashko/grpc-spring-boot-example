@@ -1,0 +1,3 @@
+com/test/multimodule/grpcclientdemo/grpcClientService/GrpcClientService.class
+com/test/multimodule/grpcclientdemo/GrpcClientDemoApplication.class
+com/test/multimodule/grpcclientdemo/controllers/TestController.class
