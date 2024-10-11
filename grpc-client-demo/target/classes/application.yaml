@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: grpc-client-demo
-grpc:
-  client:
-    demo-server:
-      address: static://localhost:9090
-      negotiation-type: plaintext

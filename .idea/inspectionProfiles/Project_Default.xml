@@ -11,6 +11,8 @@
           <option value="grpc-server-demo" />
           <option value="grpc-server-demo" />
           <option value="grpc-server-demo" />
+          <option value="grpc-core" />
+          <option value="grpc-client-demo" />
         </list>
       </option>
       <option name="ignoredPackages">
@@ -21,10 +23,14 @@
           <option value="org.xmlunit:xmlunit-core:2.9.1" />
           <option value="org.springframework:spring-web:6.1.13" />
           <option value="com.google.protobuf:protobuf-java:3.25.1" />
+          <option value="com.google.protobuf:protobuf-java:3.25.1" />
+          <option value="org.springframework:spring-web:6.1.13" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />
