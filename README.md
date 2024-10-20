@@ -4,6 +4,10 @@
 #### DESCRIPSHION: ####
 a simple multi-module project demonstrating the interaction of client-server modules and a separate library of proto file configuration
 <hr>
+ copy repo:
+ 
+    git clone git@github.com:IhorMurashko/grpc-spring-boot-example.git
+<hr>
 
 ### This is simple spring boot multimodules project contains:
 
